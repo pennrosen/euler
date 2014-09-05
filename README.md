@@ -1,7 +1,7 @@
 euler
 =====
 
-Coffeescript solutions for Project Euler problems.
+Coffeescript / Javascript solutions for Project Euler problems.
 
 Solving sequentially!
 
